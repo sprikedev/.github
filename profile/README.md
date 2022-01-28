@@ -2,7 +2,7 @@
 
 We are happy to have you here! This is Sprike's official GitHub profile. We are currently working on our app. 
 
-📬 Follow us on [Twitter](https//twitter.com/sprikeapp) (@sprikeapp) to stay updated!
+📬 Follow us on [Twitter](https://twitter.com/sprikeapp) (@sprikeapp) to stay updated!
 
 
 <!--
